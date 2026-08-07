@@ -48,6 +48,6 @@ I'm a developer based in Ontario, currently completing my studies at Georgian Co
 
 <!-- align github stats nicely -->
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bran7230&layout=compact&langs_count=8&theme=nightowl" alt="Top Languages" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bran7230&show_icons=true&theme=nightowl&count_private=true" alt="Stats" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brandon-trumble&layout=compact&langs_count=8&theme=nightowl" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=brandon-trumble&show_icons=true&theme=nightowl&count_private=true" alt="Stats" height="165" />
 </div>
