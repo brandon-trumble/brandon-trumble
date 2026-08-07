@@ -17,7 +17,7 @@ I'm a developer based in Ontario, currently completing my studies at Georgian Co
 <!-- project highlights -->
 ### Featured Projects
 
-* **[Golang Roblox Server API](https://github.com/bran7230/golang-proj):** A high-performance REST API built in Go, designed specifically for Roblox video game servers. It provides a robust, extensible foundation for game developers to integrate, modify, and learn backend server mechanics.
+* **[Golang Roblox Server API](https://github.com/brandon-trumble/golang-proj):** A high-performance REST API built in Go, designed specifically for Roblox video game servers. It provides a robust, extensible foundation for game developers to integrate, modify, and learn backend server mechanics.
 
 ---
 
