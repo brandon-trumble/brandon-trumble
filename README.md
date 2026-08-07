@@ -1,9 +1,12 @@
 <!-- center the header section -->
 <div align="center">
+  <!-- custom golang typing animation -->
+  <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/animation/gopher-typing.gif" width="140" alt="Golang Gopher Typing" />
+  
   <h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving Hand"> I'm Brandon.</h1>
 
-  <!-- configure the animated typing text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=82AAFF&center=true&vCenter=true&width=500&height=50&lines=Backend+Engineer+%26+Go+Enthusiast;Building+High-Performance+APIs;Linux+%26+Systems+Architecture" alt="Typing SVG" />
+  <!-- configure the animated typing text with golang brand blue -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&height=50&lines=Backend+Engineer+%26+Go+Enthusiast;Building+High-Performance+APIs;Linux+%26+Systems+Architecture" alt="Typing SVG" />
 </div>
 
 <br/>
