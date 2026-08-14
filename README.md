@@ -18,6 +18,7 @@ I'm a developer based in Ontario, currently completing my studies at Georgian Co
 ### Featured Projects
 
 * **[Golang Roblox Server API](https://github.com/brandon-trumble/golang-proj):** A high-performance REST API built in Go, designed specifically for Roblox video game servers. It provides a robust, extensible foundation for game developers to integrate, modify, and learn backend server mechanics.
+* **[Project Generator](https://github.com/brandon-trumble/projectGenerator):** A multi-project type generator built in Go, it was designed to give users the base of a project, file structure, and template example code for them to reference.
 
 ---
 
