@@ -1,22 +1,17 @@
 <div align="center">
-  <!-- Gopher + Ferris -->
-  <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/animation/gopher-typing.gif" alt="Golang Gopher Typing" width="180" />
+  <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/svg/6.svg" alt="Go Gopher" width="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://rustacean.net/assets/rustacean-flat-happy.png" alt="Ferris the Crab" width="180" />
-
   <h1>Hi there! I'm Brandon.</h1>
-
-  <!-- Animated Terminal Subtitle -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=560&height=50&lines=Backend+%26+Systems+Engineer;Go+for+Services%2C+Rust+for+Systems;Concurrency%2C+Memory+Safety%2C+Performance;Linux+%26+Systems+Architecture" alt="Typing SVG" />
-
-  <br/><br/>
-
+  <br />
+  <br />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
-
-<br/>
 
 ### About Me
 
@@ -54,7 +49,7 @@ Two languages, one goal: services that stay fast and correct under load.
 ### Tech Stack & Interests
 
 * **Languages:** Go (Golang), Rust, C, C++, C#, SQL
-* **Backend & Systems:** REST API Architecture, Linux Environments, Process Management, ASP.NET Core, NestJS, MySQL
+* **Backend & Systems:** REST API Architecture, Linux Environments, Process Management, ASP.NET Core, NestJS, PostgreSQL, MySQL
 * **Go Focus:** Goroutines, channels, context propagation, microservice design
 * **Rust Focus:** Ownership & borrowing, zero-cost abstractions, `async`/Tokio, memory safety without a GC
 * **Focus Areas:** Concurrency, Microservices, Low-level Systems Programming
