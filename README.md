@@ -76,6 +76,10 @@ Real product. Real engineering decisions. Plenty of opportunities to ask, “Cou
 
 ### Tools of the Trade
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,go,rust,cs,js,ts&theme=dark" alt="Java, Go, Rust, C#, JavaScript, and TypeScript" />
+</p>
+
 | Area | Technologies & interests |
 | :--- | :--- |
 | **Languages** | Java, Go, Rust, C#, JavaScript, TypeScript, SQL |
@@ -110,7 +114,7 @@ Real product. Real engineering decisions. Plenty of opportunities to ask, “Cou
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brandon-trumble&layout=compact&langs_count=8&theme=nightowl" alt="Most used languages in public repositories" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brandon-trumble&layout=compact&langs_count=8&theme=nightowl&hide=c,cpp" alt="Most used languages in public repositories" height="165" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=brandon-trumble&show_icons=true&theme=nightowl" alt="GitHub statistics" height="165" />
 
   <br />
