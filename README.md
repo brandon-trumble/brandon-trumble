@@ -78,7 +78,7 @@ Real product. Real engineering decisions. Plenty of opportunities to ask, “Cou
 
 | Area | Technologies & interests |
 | :--- | :--- |
-| **Languages** | Java, Go, Rust, C, C++, C#, JavaScript, TypeScript, SQL |
+| **Languages** | Java, Go, Rust, C#, JavaScript, TypeScript, SQL |
 | **Backend** | Spring Boot, ASP.NET Core, NestJS, REST APIs |
 | **Data** | PostgreSQL, MySQL, Redis, JDBC, Flyway |
 | **Java interests** | Virtual threads, records, JPA, security, caching, clean architecture |
