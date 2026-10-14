@@ -80,10 +80,6 @@ Real product. Real engineering decisions. Plenty of opportunities to ask, “Cou
 
 ### Tools of the Trade
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,rust,cs,js,ts&theme=dark" alt="Java, Go, Rust, C#, JavaScript, and TypeScript" />
-</p>
-
 | Area | Technologies & interests |
 | :--- | :--- |
 | **Languages** | Java, Go, Rust, C#, JavaScript, TypeScript, SQL |
